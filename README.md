@@ -1,22 +1,6 @@
-# Vite npm package template
+# Lowcharts
 
-A template for an npm package using:
-
-- vite
-- typescript
-- jest
-- prettier & eslint
-- controlled commits with commitizen, lint-staged, etc.
-- & more!
-
-Inspired by this post by [Onur Önder](https://onderonur.netlify.app/blog/creating-a-typescript-library-with-vite/)
-
-## Setup
-
-1. Install packages.
-1. Edit the top of the package.json file to include the correct package name and description. You can find and replace for "\<LIBRARY\>"
-1. Edit the README.md
-1. You may need to review the `vite.config.js` depending on your library structure.
+Lowcharts will be a lightweight charting library powered by gnuplot.
 
 ## Scripts
 
