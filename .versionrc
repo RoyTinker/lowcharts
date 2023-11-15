@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "postchangelog": "npm run prettier -w CHANGELOG.md && git add CHANGELOG.md"
+  }
+}
